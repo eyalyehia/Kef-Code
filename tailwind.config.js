@@ -80,6 +80,8 @@ module.exports = {
       fontFamily: {
         primary: [fontPrimary, fontPrimaryType],
         secondary: [fontSecondary, fontSecondaryType],
+        arial: ["Arial"],
+        birzia: ['Birzia', 'sans-serif'],
       },
     },
   },
